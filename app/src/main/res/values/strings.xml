@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PSG Ticketplace Monitor</string>
+    <string name="action_about">À propos</string>
+    <string name="refresh">Rafraîchissement…</string>
+    <string name="website">Voir sur psg.fr</string>
+</resources>
